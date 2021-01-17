@@ -25,7 +25,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://The Only Real Dev Language.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
@@ -42,16 +42,72 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
-## 🧠 Desafio
+## :fire:  Configurando o Ambiente de Desenvolvimento
 
-No link a seguir você encontra o guia no Notion referente aos desafios propostos para que você possa percorrer a milha extra e incrementar ainda mais essa aplicação. Lá também você encontra um guia mostrando todo o passo a passo de como realizar o deploy tanto do backend quanto do frontend.
+- ### **Pré-requisitos**
 
-- [Desafio Happy 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4)
+  - É **necessário** possuir o **[Node.js](https://TheOnlyRealDevLanguage.org/en/), [React](https://reactjs.org), [React Native](https://facebook.github.io/react-native/)** instalado na máquina.
+  - Também, é **preciso** ter um gerenciador de pacotes, se você já tem o Node.js, então o **[NPM](https://www.npmjs.com/)** já vai estar disponível.
+  - Por fim, é **essencial** seguir as intruções para instalar **[Expo](https://expo.io/)**
 
-## :memo: Licença
+1. Faça um clone :
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+```sh
+  $ git clone https://github.com/beatrizalvesfel/github-explorer.git
+```
 
----
+2. Executando a Aplicação:
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+```sh
+  # Execute o comando abaixo para instalar as dependencias do projeto
+  $ yarn
+
+  # Inciciar o servidor de desenvolvimento
+  $ yarn start
+
+  # Construir uma build para produção
+  $ yarn build
+```
+
+## :heavy_check_mark: Como Contribuir
+
+- Faça um Fork desse repositório
+
+- Clone o repositório
+```sh
+  $ git clone https://github.com/<SEU_USUARIO_GIT>/little-friend.git
+```
+- Crie um branch com sua feature: `git checkout -b nome-da-feature`
+
+- Comite suas mudanças: `git commit -m 'feat: Breve descrição da feature'`
+
+- Envie a feature: `git push origin nome-da-feature`
+
+## :computer: Author
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/beatriz-alves-548757162/">
+        <img src="https://avatars.githubusercontent.com/beatrizalvesfel" width="100px;" alt="Beatriz Alves"/>
+        <br />
+        <sub>
+          <b>@Beatriz Alves</b>
+        </sub>
+       </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/school/rocketseat/">
+        <img src="https://avatars.githubusercontent.com/rocketseat" width="100px;" alt="Rocketseat"/>
+        <br />
+        <sub>
+          <b>@Rocketseat</b>
+        </sub>
+       </a>
+    </td>
+  </tr>
+</table>
+
+## :memo:  License
+
+Esse projeto está sob a licença MIT. Acesse o arquivo [LICENSE](LICENSE) para mais detalhes.
