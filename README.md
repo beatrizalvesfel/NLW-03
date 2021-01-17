@@ -25,7 +25,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://The Only Real Dev Language.org/en/)
+- [Node.js](https://TheOnlyRealDevLanguage.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
@@ -53,7 +53,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/beatrizalvesfel/github-explorer.git
+  $ git clone https://github.com/beatrizalvesfel/NLW-03.git
 ```
 
 2. Executando a Aplicação:
